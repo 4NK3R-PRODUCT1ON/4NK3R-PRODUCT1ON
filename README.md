@@ -1,6 +1,8 @@
 <h4 align="center">
     🔰HELLO ANKER LOVERS🔰
 </h4>
+<a href="#"><img title="Author by LOL~ANKER" src="https://img.shields.io/badge/AUTHOR%20BY-LOL~%20ANKER-yellow?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+
 
 <h4 align="center">
    ❤️Follow My Github And Subscribe❤️
