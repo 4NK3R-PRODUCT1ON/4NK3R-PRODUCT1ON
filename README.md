@@ -15,7 +15,6 @@
 <a href="https://github.com/4NK3R-PRODUCT1ON/enc"><img title="Encrypt python2" src="https://github-readme-stats.vercel.app/api/pin/?username=4NK3R-PRODUCT1ON&repo=enc&theme=vision-friendly-dark"></a>
 <a href="https://github.com/4NK3R-PRODUCT1ON/DefaceWebDav"><img title="Deface website" src="https://github-readme-stats.vercel.app/api/pin/?username=4NK3R-PRODUCT1ON&repo=DefaceWebDav&theme=vision-friendly-dark"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunia-Kode&layout=compact" alt="Top language">
 
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/4NK3R-PRODUCT1ON)<br />
