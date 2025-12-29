@@ -19,6 +19,6 @@
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/4NK3R-PRODUCT1ON)<br />
 * [<img alt="Dunia-Kode's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6283826125112)<br />
-* [<img alt="Dunia-Kode's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/dimws._)<br />
+* [<img alt="Dunia-Kode's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/dimxz._)<br />
 
 ![template_s](https://github.com/4NK3R-PRODUCT1ON/4NK3R-PRODUCT1ON/blob/main/1598653706079.png)
